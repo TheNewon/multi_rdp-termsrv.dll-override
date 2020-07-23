@@ -1,5 +1,5 @@
 import binascii
-from_='39813C0600000F84'# partial value will be changed with others value next to it to get same index value
+from_='39813C0600000F84'# partial value will be changed with others value next to it to get same index value lenght
 to_='B80001000089813806000090'
 filename = 'termsrv.dll'
 print('----------------opening-------------')
