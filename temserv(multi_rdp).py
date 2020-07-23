@@ -29,4 +29,5 @@ if x!=y:
             newFileByteArray = bytearray(content_BA)
             fh.write(newFileByteArray)
             
-print('-----------------saved---------------')            
+print('-----------------saved---------------')
+input('press enter to exit')
